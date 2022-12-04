@@ -15,7 +15,6 @@
     "generate:graphQLSchema": "PAYLOAD_CONFIG_PATH=src/payload.config.ts payload generate:graphQLSchema"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.223.0",
     "@lexical/clipboard": "0.6.4",
     "@lexical/code": "0.6.4",
     "@lexical/file": "0.6.4",
@@ -34,7 +33,6 @@
     "@lexical/table": "0.6.4",
     "@lexical/utils": "0.6.4",
     "@lexical/yjs": "0.6.4",
-    "@payloadcms/plugin-cloud-storage": "^1.0.12",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "katex": "^0.16.3",
